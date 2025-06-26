@@ -4,22 +4,22 @@
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Arabia" tvg-name="AL JAZEERA", AL JAZEERA
 #https://vavoo.to/play/4237397671/index.m3u8
-http://fath4215-one.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/play/4237397671/index.m3u8&api_password=2345
+https://fath4215-one.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/play/4237397671/index.m3u8&api_password=2345
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Arabia" tvg-name="AL JAZEERA ARABIC", AL JAZEERA ARABIC
 #https://vavoo.to/play/2663630046/index.m3u8
-http://fath4215-one.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/play/2663630046/index.m3u8&api_password=2345
+https://fath4215-one.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/play/2663630046/index.m3u8&api_password=2345
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Arabia" tvg-name="BEIN SPORTS 1 HD", BEIN SPORTS 1 HD
 #https://vavoo.to/play/2155997443/index.m3u8
-http://fath4215-one.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/play/2155997443/index.m3u8&api_password=2345
+https://fath4215-one.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/play/2155997443/index.m3u8&api_password=2345
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G981B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTINF:-1 group-title="Arabia" tvg-name="AL ARABIYA NEWS FHD", AL ARABIYA NEWS FHD
 #https://vavoo.to/play/3860778287/index.m3u8
-http://fath4215-one.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/play/3860778287/index.m3u8&api_password=2345
+https://fath4215-one.hf.space/proxy/hls/manifest.m3u8?d=https://vavoo.to/play/3860778287/index.m3u8&api_password=2345
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/misc/no-logo.png" group-title="AM. FOOTBALL",CFL : Edmonton Eskimos vs Montreal Alouettes (TSN1)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
